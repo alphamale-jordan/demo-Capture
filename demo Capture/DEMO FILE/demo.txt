@@ -1,0 +1,14 @@
+
+  al,  mo,  3,  Non-Binary,  Cape Town
+  al,  mo,  3,  Non-Binary,  Cape Town
+  al,  mo,  3,  Non-Binary,  Cape Town
+  al,  mo,  3,  Non-Binary,  Cape Town
+  a,  m,  ,  Male,  Durban
+  a,  m,  ,  Male,  Durban
+  h,  mj,  660,  Female,  Polokwane
+  k,  l,  6600,  Non-Binary,  Mbombela
+  alex,  moyo,  56,  Male,  Johannesburg
+  bianca,  john,  13,  Female,  Port Elizabeth
+  halle,  eland,  31,  Female,  Kimberly
+  alex,  moyo,  23,  Male,  Johannesburg
+  lebo,  mashile,  40,  Female,  Durban
