@@ -1,0 +1,33 @@
+C:\Users\Alex Moyo\source\repos\demo Capture\demo Capture\bin\Debug\demo Capture.exe.config
+C:\Users\Alex Moyo\source\repos\demo Capture\demo Capture\bin\Debug\demo Capture.exe
+C:\Users\Alex Moyo\source\repos\demo Capture\demo Capture\bin\Debug\demo Capture.pdb
+C:\Users\Alex Moyo\source\repos\demo Capture\demo Capture\obj\Debug\demo Capture.csprojAssemblyReference.cache
+C:\Users\Alex Moyo\source\repos\demo Capture\demo Capture\obj\Debug\demo_Capture.Form1.resources
+C:\Users\Alex Moyo\source\repos\demo Capture\demo Capture\obj\Debug\demo_Capture.Properties.Resources.resources
+C:\Users\Alex Moyo\source\repos\demo Capture\demo Capture\obj\Debug\demo Capture.csproj.GenerateResource.cache
+C:\Users\Alex Moyo\source\repos\demo Capture\demo Capture\obj\Debug\demo Capture.csproj.CoreCompileInputs.cache
+C:\Users\Alex Moyo\source\repos\demo Capture\demo Capture\obj\Debug\demo Capture.exe
+C:\Users\Alex Moyo\source\repos\demo Capture\demo Capture\obj\Debug\demo Capture.pdb
+C:\Users\Alex Moyo\source\repos\demo Capture\demo Capture\obj\Debug\demo_Capture.Search.resources
+C:\Users\Alex Moyo\Desktop\repos\demo Capture\demo Capture\bin\Debug\demo Capture.exe.config
+C:\Users\Alex Moyo\Desktop\repos\demo Capture\demo Capture\bin\Debug\demo Capture.exe
+C:\Users\Alex Moyo\Desktop\repos\demo Capture\demo Capture\bin\Debug\demo Capture.pdb
+C:\Users\Alex Moyo\Desktop\repos\demo Capture\demo Capture\obj\Debug\demo Capture.csprojAssemblyReference.cache
+C:\Users\Alex Moyo\Desktop\repos\demo Capture\demo Capture\obj\Debug\demo_Capture.Form1.resources
+C:\Users\Alex Moyo\Desktop\repos\demo Capture\demo Capture\obj\Debug\demo_Capture.Properties.Resources.resources
+C:\Users\Alex Moyo\Desktop\repos\demo Capture\demo Capture\obj\Debug\demo_Capture.Search.resources
+C:\Users\Alex Moyo\Desktop\repos\demo Capture\demo Capture\obj\Debug\demo Capture.csproj.GenerateResource.cache
+C:\Users\Alex Moyo\Desktop\repos\demo Capture\demo Capture\obj\Debug\demo Capture.csproj.CoreCompileInputs.cache
+C:\Users\Alex Moyo\Desktop\repos\demo Capture\demo Capture\obj\Debug\demo Capture.exe
+C:\Users\Alex Moyo\Desktop\repos\demo Capture\demo Capture\obj\Debug\demo Capture.pdb
+D:\Tv Series\demo Capture\demo Capture\bin\Debug\demo Capture.exe.config
+D:\Tv Series\demo Capture\demo Capture\bin\Debug\demo Capture.exe
+D:\Tv Series\demo Capture\demo Capture\bin\Debug\demo Capture.pdb
+D:\Tv Series\demo Capture\demo Capture\obj\Debug\demo Capture.csproj.AssemblyReference.cache
+D:\Tv Series\demo Capture\demo Capture\obj\Debug\demo_Capture.Form1.resources
+D:\Tv Series\demo Capture\demo Capture\obj\Debug\demo_Capture.Properties.Resources.resources
+D:\Tv Series\demo Capture\demo Capture\obj\Debug\demo_Capture.Search.resources
+D:\Tv Series\demo Capture\demo Capture\obj\Debug\demo Capture.csproj.GenerateResource.cache
+D:\Tv Series\demo Capture\demo Capture\obj\Debug\demo Capture.csproj.CoreCompileInputs.cache
+D:\Tv Series\demo Capture\demo Capture\obj\Debug\demo Capture.exe
+D:\Tv Series\demo Capture\demo Capture\obj\Debug\demo Capture.pdb
